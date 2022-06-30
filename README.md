@@ -26,6 +26,7 @@ Este repositorio <strong>NO</strong> es un requisito académico para el curso im
 
 ***
 ***Links oficiales***
+
 <https://www.misiontic2022.gov.co/portal/Secciones/Mision-TIC-2022/>
 
 https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/MinTIC-en-los-medios/177865:Como-vamos-Mision-TIC-2022
