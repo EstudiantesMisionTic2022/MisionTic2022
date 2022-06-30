@@ -13,6 +13,10 @@ Este repositorio corresponde a los <strong>retos de programación</strong> reali
 * Ciclo III	<strong>Desarrollo Web</strong> *../03-CICLO_III*
 * Ciclo IV 		<strong>Profundización</strong> (desarrollo de aplicaciones web o móviles) *../04-CICLO_IV*
 
+## <strong>Condiciones del repositorio para los estudiantes</strong>
+1. Cualquier estudiante puede tener rol de colaborador
+2. Puede crear una sola rama que tenga como nombre su respectivo nombre de usuario de GitHub
+
 ***
 Las soluciones de cada reto se cargarán al final de cada ciclo. 
 
