@@ -10,7 +10,7 @@ Este repositorio corresponde a los <strong>retos de programación</strong> reali
 
 * Ciclo I 		<strong>Python</strong> *../01-CICLO_I*
 * Ciclo II 		<strong>Java</strong> *../02-CICLO_II*
-* Ciclo III*	<strong>Desarrollo Web</strong> *../03-CICLO_III*
+* Ciclo III	<strong>Desarrollo Web</strong> *../03-CICLO_III*
 * Ciclo IV 		<strong>Profundización</strong> (desarrollo de aplicaciones web o móviles) *../04-CICLO_IV*
 
 ***
