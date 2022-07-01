@@ -6,15 +6,15 @@ Este repositorio corresponde a los <strong>retos de programación</strong> reali
 * Cada ciclo tiene una duración de siete semanas.
 * Certificación final de <strong>800 horas</strong>.
 *** 
-### La temática de cada ciclo y su respectiva carpeta dentro de este repositorio se distribuye de la siguiente manera:
+### Dentro de este repositorio <strong>cada directorio</strong> (carpeta) <strong>corresponde a cada ciclo</strong>, tal como se indica a continuación:
 
-* Ciclo I 		<strong>Python</strong> *../01-CICLO_I*
-* Ciclo II 		<strong>Java</strong> *../02-CICLO_II*
-* Ciclo III	<strong>Desarrollo Web</strong> *../03-CICLO_III*
-* Ciclo IV 		<strong>Profundización</strong> (desarrollo de aplicaciones web o móviles) *../04-CICLO_IV*
+* *../01-CICLO_I*---**Ciclo I**---Python
+* *../02-CICLO_II*---**Ciclo II**---Java	<strong></strong> 
+* *../03-CICLO_III*---**Ciclo III**---Desarrollo Web	<strong></strong> 
+* *../04-CICLO_IV*----**Ciclo IV**---Profundización (desarrollo de aplicaciones web o móviles) 
 
 ## <strong>Condiciones del repositorio para los estudiantes</strong>
-1. Cualquier estudiante puede tener rol de colaborador
+1. Cualquier estudiante puede solicitar rol de colaborador. Se requiere el nombre de usuario.
 2. Puede crear una sola rama que tenga como nombre su respectivo nombre de usuario de GitHub
 
 ***
@@ -22,7 +22,7 @@ Las soluciones de cada reto se cargarán al final de cada ciclo.
 
 Por este motivo, <strong>algunas carpetas no contienen ningún archivo</strong> a parte del *README.md* 
 
-En el *README.md* de cada subdirectorio hay <strong>indicaciones generales</strong> acerca de cada uno de los retos de programación de cada ciclo.
+En el *README.md* de cada directorio hay <strong>indicaciones generales</strong> acerca de los retos de programación de cada ciclo.
 ***
 Este repositorio se crea como una <strong>iniciativa voluntaria</strong> de parte de los estudiantes. 
 
