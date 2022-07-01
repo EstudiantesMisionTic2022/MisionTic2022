@@ -13,6 +13,18 @@ Este repositorio corresponde a los <strong>retos de programación</strong> reali
 * *../03-CICLO_III*---**Ciclo III**---Desarrollo Web	<strong></strong> 
 * *../04-CICLO_IV*----**Ciclo IV**---Profundización (desarrollo de aplicaciones web o móviles) 
 
+## <strong>El propósito...</strong>
+>El repositorio **MisionTic2022** está creado para publicar las soluciones que cada estudiante implementó en cada reto.
+Así se obtendrán diferentes soluciones publicadas en el repositorio de un mismo reto.
+
+>Dado que es un repositorio con visibilidad pública, cualquier usuario de GitHub puede visualizar el código de cada colaborador 
+
+>Al publicar nuestro código en este repositorio, podemos recibir sugerencias o aceptar modificaciones de colaboradores o de quienes hayan forkeado el repositorio.
+
+
+
+
+
 ## <strong>Condiciones del repositorio para los estudiantes</strong>
 1. Cualquier estudiante puede solicitar rol de colaborador. Se requiere el nombre de usuario.
 2. Puede crear una sola rama que tenga como nombre su respectivo nombre de usuario de GitHub
