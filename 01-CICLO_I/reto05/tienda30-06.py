@@ -1,3 +1,8 @@
+# ADVERTENCIA FUNCIÓN EXIT() 
+# Este programa contiene la función exit() la cual
+# ha provocado crasheo de sesión en colab. 
+# Sin embargo en Visual Studio Code no genera 
+# ningún problema
 p = {   '1':	['Manzanas',    5000,	    25],
         '2':	['Limones',	    2300,	    15],
         '3':	['Peras',	    2700,	    33],
